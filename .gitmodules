@@ -1,0 +1,6 @@
+[submodule "API_Projects"]
+	path = API_Projects
+	url = https://github.com/gshreeram/python_api_projects
+[submodule "Scraping_Projects"]
+	path = Scraping_Projects
+	url = https://github.com/gshreeram/python_scraping_projects
