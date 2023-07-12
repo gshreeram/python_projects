@@ -2,7 +2,7 @@
 
 The following is a list of web projects developed using Python, along with their respective project overviews and goals.
 
-1. [**Blog:**](./Web_Projects/README-Django_Blog.md)
+1. [**Blog:**](../../Web_Projects/README-Django_Blog.md)
    - **Overview:** It aims to provide a platform for users to create, read, update, and delete blog posts. The blog will have a user-friendly interface and will allow users to interact with the content easily.
    - **Goals:** The primary goal is to provide a seamless and user-friendly experience for readers, with CRUD functionalities of Blog post with commenting section.
 
