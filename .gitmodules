@@ -4,3 +4,6 @@
 [submodule "Scraping_Projects"]
 	path = Scraping_Projects
 	url = https://github.com/gshreeram/python_scraping_projects
+[submodule "Web_Projects"]
+	path = Web_Projects
+	url = https://github.com/gshreeram/python_web_projects
