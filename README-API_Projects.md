@@ -20,14 +20,14 @@ The main goals of the API Projects in Python are as follows:
 
 ## API Projects
 
-- [x] [Recipe API](README-py_dj_recipe_api.md)
+- [x] [Recipe API](API_Projects/README-py_dj_recipe_api.md)
 
 ## API Integrations
 
-- [x] [OpenWeatherMap API](README-openweathermap.md)
-- [x] [Facebook API](README-Meta.md)
-- [x] [Language Tooks API](README-languagetool.md)
+- [x] [OpenWeatherMap API](API_Projects/README-openweathermap.md)
+- [x] [Facebook API](API_Projects/README-Meta.md)
+- [x] [Language Tooks API](API_Projects/README-languagetool.md)
 
 ## API Connectors
 
-- [x] [Gmail API](README-connectors.md)
+- [x] [Gmail API](API_Projects/README-connectors.md)
